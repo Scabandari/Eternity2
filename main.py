@@ -28,8 +28,6 @@ with open(CSV_FILE) as csv_file:
         else:
             reg_pieces.append(piece)
 
-print("Get to work asshole")
-
 # print("Corner Pieces: ")
 # for p in corner_pieces:
 #     p.print_verbose()
